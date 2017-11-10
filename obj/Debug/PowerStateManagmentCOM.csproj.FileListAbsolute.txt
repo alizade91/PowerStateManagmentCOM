@@ -1,0 +1,6 @@
+C:\Users\Alizada\source\repos\PowerStateManagmentCOM\PowerStateManagmentCOM\obj\Debug\PowerStateManagmentCOM.csprojResolveAssemblyReference.cache
+C:\Users\Alizada\source\repos\PowerStateManagmentCOM\PowerStateManagmentCOM\obj\Debug\PowerStateManagmentCOM.csproj.CoreCompileInputs.cache
+C:\Users\Alizada\source\repos\PowerStateManagmentCOM\PowerStateManagmentCOM\bin\Debug\PowerStateManagmentCOM.dll
+C:\Users\Alizada\source\repos\PowerStateManagmentCOM\PowerStateManagmentCOM\bin\Debug\PowerStateManagmentCOM.pdb
+C:\Users\Alizada\source\repos\PowerStateManagmentCOM\PowerStateManagmentCOM\obj\Debug\PowerStateManagmentCOM.dll
+C:\Users\Alizada\source\repos\PowerStateManagmentCOM\PowerStateManagmentCOM\obj\Debug\PowerStateManagmentCOM.pdb
